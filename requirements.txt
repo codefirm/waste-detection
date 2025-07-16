@@ -1,7 +1,7 @@
 streamlit==1.26.0
 opencv-python-headless==4.8.1.78
 pillow>=10.0.0
-cmake==4.1.0
+cmake==3.27.4
 torch==2.6.0
 torchvision==0.21.0
 ultralytics==8.0.173
